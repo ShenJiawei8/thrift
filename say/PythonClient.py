@@ -1,6 +1,4 @@
-import sys
-sys.path.append('./gen-py')
-
+#/home/ubuntu/python-dev/bin
 from helloworld import HelloWorld
 from helloworld.ttypes import *
 from helloworld.constants import *
