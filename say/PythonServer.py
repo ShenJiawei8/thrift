@@ -1,3 +1,4 @@
+#/home/ubuntu/python-dev/bin
 import sys
 sys.path.append('./gen-py')
  
