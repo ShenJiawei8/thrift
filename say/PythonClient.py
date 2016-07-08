@@ -2,7 +2,7 @@
 import sys
 sys.path.append('./gen-py')
 
-#test
+#test,tent
 
 from helloworld import HelloWorld
 from helloworld.ttypes import *
