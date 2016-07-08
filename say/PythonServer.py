@@ -1,7 +1,7 @@
 #/home/ubuntu/python-dev/bin
 import sys
 sys.path.append('./gen-py')
- 
+#che dan
 from helloworld import HelloWorld
 from helloworld.ttypes import *
 
